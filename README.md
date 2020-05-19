@@ -12,7 +12,7 @@ The purpose of this course is to provide students with an overview of the cuttin
 
 The course consists of eight parts which are summarised below. Please check each individual part for course pre-requisites and pre-reading.
 
-**1. [Introduction to Bayesian Machine Learning](intro-to-bayes.md)**
+1. [**Introduction to Bayesian Machine Learning**](intro-to-bayes.md)
 
 *Lecturer: Christopher Yau*
 
@@ -24,7 +24,7 @@ Topics covered include:
   - Decision Theory
   - Computational Statistics
   
-**2. [Modelling in Machine Learning](ml-modelling.md) **
+2. [**Modelling in Machine Learning**](ml-modelling.md)**
 
 *Lecturer: Christopher Yau*
 
@@ -35,7 +35,7 @@ Topics covered include:
   - Choosing inference techniques
   - Model checking and validation
   
-**3. [Approximate Inference](approximate-inference.md) **
+3. [**Approximate Inference**](approximate-inference.md)
 
 *Lecturer: Kaspar Martens*
 
