@@ -16,7 +16,7 @@ The course consists of eight parts which are summarised below. Please check each
   
 [**2. Modelling in Machine Learning**](ml-modelling.md) by Christopher Yau
   
-[**3. Approximate Inference**](approximate-inference.md) by Kaspar Martens
+[**3. Approximate Inference**](approximate-inference.md) by Kaspar Märtens
 
 [**4. Differentiable Programming**](differentiable-programming.md) by Dominic Danks
 
