@@ -30,6 +30,5 @@ The course consists of eight parts which are summarised below. Please check each
 
 [**8. Guest Lecture**](guest-lecture.md) by tbc
 
-
 ## References
 
