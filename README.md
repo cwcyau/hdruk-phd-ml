@@ -12,38 +12,12 @@ The purpose of this course is to provide students with an overview of the cuttin
 
 The course consists of eight parts which are summarised below. Please check each individual part for course pre-requisites and pre-reading.
 
-1. [**Introduction to Bayesian Machine Learning**](intro-to-bayes.md) by Christopher Yau
-
-The purpose of this lecture is to provide an overview of the key steps of classical Bayesian analysis. We will then consider how Bayesian principles are applied in the current era and the implications of convergences in Statistics and Computation that have seen the emergence of a new Bayesian paradigm.
-
-Topics covered include:
-  - Principles of Bayesian analysis
-  - De Finetti's Theorem
-  - Decision Theory
-  - Computational Statistics
+[**1. Introduction to Bayesian Machine Learning**](intro-to-bayes.md) by Christopher Yau
   
-2. [**Modelling in Machine Learning**](ml-modelling.md)** by Christopher Yau
-
-In this lecture, we will consider the principles of modelling in a machine learning settings. We will consider a number of case studies and focus on the modelling choices that went into the design of the machine learning methods.
-
-Topics covered include:
-  - Design of probabilistic models
-  - Choosing inference techniques
-  - Model checking and validation
+[**2. Modelling in Machine Learning**](ml-modelling.md)** by Christopher Yau
   
-3. [**Approximate Inference**](approximate-inference.md) by Kaspar Martens
+[**3. Approximate Inference**](approximate-inference.md) by Kaspar Martens
 
-Approximate inference techniques are vital to the production of scalable algorithms that can operate on large high-dimensional data sets. This lecture will discuss two frequently used inference methods in Bayesian machine learning: variational inference and stochastic gradient descent with case studies.
+[**4. Differentiable Programming**](differentiable-programming.md) by Dominic Danks
 
-Topics covered include:
-  - Variational inference
-  - Stochastic gradient descent
-
-4. [**Differentiable Programming**](differentiable-programming.md) by Dominic Danks
-
-Differentiable programming is a programming paradigm in which programs are created so that they can be differentiated, usually via automatic differentiation, allowing the use of gradient based optimisation of parameters in the program. In this lecture, we will examine Google JAX - a high-performance machine learning research library - which provides a framework for easy automatic differentiation of Python/NumPy-based functions.
-
-Topics covered include:
-  - Principles of differentiable programming
-  - Google JAX
  
