@@ -14,7 +14,7 @@ The course consists of eight parts which are summarised below. Please check each
 
 [**1. Introduction to Bayesian Machine Learning**](intro-to-bayes.md) by Christopher Yau
   
-[**2. Modelling in Machine Learning**](ml-modelling.md)** by Christopher Yau
+[**2. Modelling in Machine Learning**](ml-modelling.md) by Christopher Yau
   
 [**3. Approximate Inference**](approximate-inference.md) by Kaspar Martens
 
