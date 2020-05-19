@@ -10,12 +10,15 @@ The purpose of this course is to provide students with an overview of the cuttin
 
 ## Programme Contents
 
-1. [Introduction to Bayesian Statistics](intro-to-bayes.md)
+**1. [Introduction to Bayesian Machine Learning](intro-to-bayes.md)**
 
+The purpose of this lecture is to provide an overview of the key steps of classical Bayesian analysis. We will then consider how Bayesian principles are applied in the current era and the implications of convergences in Statistics and Computation that have seen the emergence of a new Bayesian paradigm.
+
+Topics covered include:
   - Principles of Bayesian analysis
   - De Finetti's Theorem
   - Decision Theory
   - Computational Statistics
   
-2. 
+**2. **
 
