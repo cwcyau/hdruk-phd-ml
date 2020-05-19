@@ -10,7 +10,7 @@ The purpose of this course is to provide students with an overview of the cuttin
 
 # Programme Contents
 
-1. [Introduction to Bayesian Statistics](intro-to-bayes.md)
+1. [Introduction to Bayesian Statistics](intro-to-bayes)
 
   - Principles of Bayesian analysis
   - De Finetti's Theorem
