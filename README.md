@@ -8,9 +8,9 @@ The purpose of this course is to provide students with an overview of the cuttin
 *Co-Director, HDRUK-Turing PhD Programme in Health Data Science*
 *University of Manchester*
 
-# Programme Contents
+## Programme Contents
 
-1. [Introduction to Bayesian Statistics](intro-to-bayes)
+1. [Introduction to Bayesian Statistics](intro-to-bayes.md)
 
   - Principles of Bayesian analysis
   - De Finetti's Theorem
