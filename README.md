@@ -24,5 +24,12 @@ The course consists of eight parts which are summarised below. Please check each
 
 [**5. Differentiable Programming**](differentiable-programming.md) by Dominic Danks
 
+[**6. Health applications of Bayesian ML**](health-applications.md) by tbc
+
+[**7. Student-led Presentations**](student-led.md)
+
+[**8. Guest Lecture**](guest-lecture.md) by tbc
+
+
 ## References
 
