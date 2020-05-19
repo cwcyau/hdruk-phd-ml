@@ -17,10 +17,12 @@ The course consists of eight parts which are summarised below. Please check each
 [**1. Introduction to Bayesian Machine Learning**](intro-to-bayes.md) by Christopher Yau
   
 [**2. Modelling in Machine Learning**](ml-modelling.md) by Christopher Yau
-  
-[**3. Approximate Inference**](approximate-inference.md) by Kaspar Märtens
 
-[**4. Differentiable Programming**](differentiable-programming.md) by Dominic Danks
+[**3. Bayesian Deep Learning**](bayes-deep-learning.md) by tbc
+  
+[**4. Approximate Inference**](approximate-inference.md) by Kaspar Märtens
+
+[**5. Differentiable Programming**](differentiable-programming.md) by Dominic Danks
 
 ## References
 
