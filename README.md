@@ -2,13 +2,11 @@
 
 *This is a repo for the Machine Learning training series for the Year 1 Cohort of the HDRUK-Turing PhD Programme in Health Data Science.*
 
+
 ## Overview
 
 The purpose of this course is to provide students with an overview of the cutting edge ideas in modern machine learning with a focus on probabilistic approaches based on Bayesian methodology. This course is not intended to teach you Bayesian modelling in its entirety in these eight sessions. Instead, we will focus on providing a platform to support further detailed learning in your own time by reviewing key aspects of the field and how they apply in health applications and examining the potential developments that may require your attentions. 
 
-*Professor Christopher Yau*
-*Co-Director, HDRUK-Turing PhD Programme in Health Data Science*
-*University of Manchester*
 
 ## Programme Contents
 
@@ -30,6 +28,7 @@ The course consists of eight parts which are summarised below. Please check each
 
 [**8. Guest Lecture**](guest-lecture.md) by tbc
 
+
 ## References
 
 The following resources maybe helpful pre-reading to familiarise yourself with background mathematical concepts and introductory material on Bayesian Statistics: 
@@ -40,4 +39,3 @@ and artificial intelligence](https://www.nature.com/articles/nature14541.pdf?ori
 - [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
 
 - [Pattern Recognition and Machine Learning](http://www.cs.man.ac.uk/~fumie/tmp/bishop.pdf) by Chris Bishop
-
