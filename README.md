@@ -34,10 +34,10 @@ The course consists of eight parts which are summarised below. Please check each
 
 The following resources maybe helpful pre-reading to familiarise yourself with background mathematical concepts and introductory material on Bayesian Statistics: 
 
-[Probabilistic machine learning
+- [Probabilistic machine learning
 and artificial intelligence](https://www.nature.com/articles/nature14541.pdf?origin=ppub) by Zoubin Ghahramani
 
-[Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+- [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
 
-[Pattern Recognition and Machine Learning](http://www.cs.man.ac.uk/~fumie/tmp/bishop.pdf) by Chris Bishop
+- [Pattern Recognition and Machine Learning](http://www.cs.man.ac.uk/~fumie/tmp/bishop.pdf) by Chris Bishop
 
