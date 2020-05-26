@@ -24,9 +24,11 @@ The course consists of eight parts which are summarised below. Please check each
 
 [**6. Health applications of Bayesian ML**](health-applications.md) by tbc
 
-[**7. Reading Week: Student-led Presentations**](student-led.md)
+[**7. Causal Machine Learning**](causal.md) by tbc
 
-[**8. Guest Lecture**](guest-lecture.md) by tbc
+[**8. Reading Week: Student-led Presentations**](student-led.md)
+
+[**9. Guest Lecture**](guest-lecture.md) by tbc
 
 
 ## References
