@@ -4,7 +4,7 @@ This is a repo for the Machine Learning training series for the Year 1 Cohort of
 
 ## Overview
 
-The purpose of this course is to provide students with an overview of the cutting edge ideas in modern machine learning with a focus on probabilistic approaches based on Bayesian methodology. We will not be able to teach you Bayesian modelling in this eight sessions but instead we focus by providing you with context and directions to further resources to support detailed learning. We hope to enable further exploration of these topics as relevant to student's long-term research plans.
+The purpose of this course is to provide students with an overview of the cutting edge ideas in modern machine learning with a focus on probabilistic approaches based on Bayesian methodology. We will not be able to teach you Bayesian modelling in this eight sessions but we focus on providing a platform to support further detailed learning in your own time. 
 
 *Professor Christopher Yau*
 *Co-Director, HDRUK-Turing PhD Programme in Health Data Science*
