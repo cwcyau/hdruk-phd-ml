@@ -1,6 +1,6 @@
 # HDRUK-Turing PhD Programme in Health Data Science: Machine Learning 
 
-This is a repo for the Machine Learning training series for the Year 1 Cohort of the HDRUK-Turing PhD Programme in Health Data Science.
+*This is a repo for the Machine Learning training series for the Year 1 Cohort of the HDRUK-Turing PhD Programme in Health Data Science.*
 
 ## Overview
 
